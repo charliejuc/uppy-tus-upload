@@ -1,4 +1,4 @@
-# Webpack  pug-scss-template
+# Uppy tus upload FRONTEND
 
 Packages installation:
 
