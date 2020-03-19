@@ -1,5 +1,4 @@
-# Webpack  pug-scss-template
-
+# Uppy tus upload SERVER
 Packages installation:
 
 ```
