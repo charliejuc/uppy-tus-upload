@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "nodemon": "nodemon",
+    "server:dev": "yarn nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
+    "nodemon": "^2.0.2",
     "tus-node-server": "^0.3.2"
   }
 }
